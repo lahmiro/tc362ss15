@@ -1,0 +1,3 @@
+IP: 107.170.186.166
+Domain Names: http://tc1.philinachen.com/
+		http://tc2.philinachen.com/
